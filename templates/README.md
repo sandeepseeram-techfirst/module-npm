@@ -1,16 +1,12 @@
- # Project Name
+ # NPM Module
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License] (https://opensource.org/licenses/MIT)
 
 ## Description
 
-Briefly describe your project, its purpose, and functionality. Explain what makes it unique or valuable.
+NPM Module for testing
 
 ## Features
-
-- Feature 1
-- Feature 2
-- ...
 
 ## Installation
 
@@ -21,8 +17,6 @@ Ensure you have Node.js and npm installed on your machine.
 3. Install dependencies: `npm install`
 
 ## Usage
-
-Explain how to use your project. Provide examples or code snippets if necessary. Consider including command-line usage, if applicable.
 
 ```bash
 npm start
