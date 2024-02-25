@@ -4,3 +4,4 @@
 
 var fn = require("./");
 fn();
+ 
